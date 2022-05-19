@@ -5,7 +5,7 @@ Shopify Technical Challenge
 - The replit link you can only run a console version of the application
 - If the repo is cloned, one can run flask app from their machine and using an application such as PostMan can call the API.
 
-### REST API form format
+## REST API form format
 |Command | Required Form Parameters | Optional Parameters| Endpoint |
 | -----------------|---------------|--------------------|-----------|
 |Create | item_name| | /create |
@@ -17,3 +17,6 @@ Shopify Technical Challenge
 |Remove from Shipment | ship_id, item_name, quantity| | /removeShip |
 |View shipment | ship_id | | /viewShip|
 |View all shipments | | | /viewAllShip|
+
+### Example
+![example API call via Postman](https://github.com/ldwy4/Shopify-Challenge/blob/master/Capture.PNG)
