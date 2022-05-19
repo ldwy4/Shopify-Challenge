@@ -2,7 +2,8 @@
 Shopify Technical Challenge
 
 ## Notes
-- The replit link you can only run a console version of the application
+- The extra feature chosen was the shipments option.
+- The replit link you can only run a console version of the application.
 - If the repo is cloned, one can run flask app from their machine and using an application such as PostMan can call the API.
 
 ## REST API form format
